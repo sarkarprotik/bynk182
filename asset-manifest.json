@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/simple/static/css/main.e3ed3100.chunk.css",
-    "main.js": "/simple/static/js/main.98487fef.chunk.js",
-    "main.js.map": "/simple/static/js/main.98487fef.chunk.js.map",
-    "runtime~main.js": "/simple/static/js/runtime~main.251d7b4f.js",
-    "runtime~main.js.map": "/simple/static/js/runtime~main.251d7b4f.js.map",
-    "static/css/2.6694e725.chunk.css": "/simple/static/css/2.6694e725.chunk.css",
-    "static/js/2.51ce1c4b.chunk.js": "/simple/static/js/2.51ce1c4b.chunk.js",
-    "static/js/2.51ce1c4b.chunk.js.map": "/simple/static/js/2.51ce1c4b.chunk.js.map",
-    "index.html": "/simple/index.html",
-    "precache-manifest.36330b46b6e24960a2f48a85e8c981a0.js": "/simple/precache-manifest.36330b46b6e24960a2f48a85e8c981a0.js",
-    "service-worker.js": "/simple/service-worker.js",
-    "static/css/2.6694e725.chunk.css.map": "/simple/static/css/2.6694e725.chunk.css.map",
-    "static/css/main.e3ed3100.chunk.css.map": "/simple/static/css/main.e3ed3100.chunk.css.map",
-    "static/media/App.css": "/simple/static/media/background.b6d1b588.jpg",
-    "static/media/code.svg": "/simple/static/media/code.45af7c0f.svg"
+    "main.css": "/bynk182/static/css/main.30a1543d.chunk.css",
+    "main.js": "/bynk182/static/js/main.4919e911.chunk.js",
+    "main.js.map": "/bynk182/static/js/main.4919e911.chunk.js.map",
+    "runtime~main.js": "/bynk182/static/js/runtime~main.571f3d26.js",
+    "runtime~main.js.map": "/bynk182/static/js/runtime~main.571f3d26.js.map",
+    "static/css/2.6694e725.chunk.css": "/bynk182/static/css/2.6694e725.chunk.css",
+    "static/js/2.0367a4be.chunk.js": "/bynk182/static/js/2.0367a4be.chunk.js",
+    "static/js/2.0367a4be.chunk.js.map": "/bynk182/static/js/2.0367a4be.chunk.js.map",
+    "index.html": "/bynk182/index.html",
+    "precache-manifest.dcc229adc17997e34a0ed051f4a9c35d.js": "/bynk182/precache-manifest.dcc229adc17997e34a0ed051f4a9c35d.js",
+    "service-worker.js": "/bynk182/service-worker.js",
+    "static/css/2.6694e725.chunk.css.map": "/bynk182/static/css/2.6694e725.chunk.css.map",
+    "static/css/main.30a1543d.chunk.css.map": "/bynk182/static/css/main.30a1543d.chunk.css.map",
+    "static/media/App.css": "/bynk182/static/media/background.b6d1b588.jpg",
+    "static/media/code.svg": "/bynk182/static/media/code.45af7c0f.svg"
   }
 }
